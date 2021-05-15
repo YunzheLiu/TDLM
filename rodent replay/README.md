@@ -1,7 +1,7 @@
 this is for rodent replay analysis using TDLM, data is from Ólafsdóttir, H. F., Carpenter, F., & Barry, C. (2016). Coordinated grid and place cell replay during rest. Nature neuroscience, 19(6), 792-794.
 
 ## multi-scale TDLM for a range of replay speed
-``` Simulation_SeqStrength_vs_StateDecode.m ```
+``` RodentReplay_onlySeq_All.m ```
 
 ## explictly modelling time in multi-scale TDLM
 
