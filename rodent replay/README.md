@@ -5,4 +5,4 @@ this is for rodent replay analysis using TDLM, data is from Ólafsdóttir, H. F.
 
 ## explictly modelling time in multi-scale TDLM
 
-``` Learning_Replay.stan ```
+``` RodentReplay_SleepTime_All.m ```
