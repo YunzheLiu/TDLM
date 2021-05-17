@@ -1,5 +1,5 @@
 # Rodent Replay
-analysis hippocampal spiking during sleep using TDLM, data from Ólafsdóttir, H. F., Carpenter, F., & Barry, C. (2016). Coordinated grid and place cell replay during rest. Nature neuroscience, 19(6), 792-794.
+analysis code for hippocampal spiking data during sleep using TDLM, data from Ólafsdóttir, H. F., Carpenter, F., & Barry, C. (2016). Coordinated grid and place cell replay during rest. Nature neuroscience, 19(6), 792-794.
 
 ## multi-scale TDLM for a range of replay speed
 ``` RodentReplay_onlySeq_All.m ```
