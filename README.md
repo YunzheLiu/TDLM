@@ -1,2 +1,2 @@
 # Measure Replay
-Code accompanying the paper: Liu, Y., Dolan, R. J., Kurth-Nelson, Z., Behrens, T. E. (2020) Measuring Sequences of Representations with Temporally Delayed Linear Modelling
+Code accompanying the paper: Liu, Y., et al. (2021). "Temporally delayed linear modelling (TDLM) measures replay in both animals and humans." eLife 10: e66917.
