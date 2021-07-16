@@ -90,7 +90,7 @@ parfor iSj = 1:nSubj
             if sum(state)==0
                 X(seqTime,:) = X(seqTime,:);
             else
-                X(seqTime,:) = X(seqTime,:) + patterns(state,:)+nanmean(patterns(setdiff(1:8,state),:),1); % pattern specific vs. non-specific
+                X(seqTime,:) = X(seqTime,:) + patterns(state,:); 
                 state = (state'*TR)'; state2 = false(8,1); state2(find(rand < cumsum(state), 1, 'first')) = true; state = state2; % advance states
                 seqTime = seqTime + round(gamrnd(gamA,gamB));
             end
